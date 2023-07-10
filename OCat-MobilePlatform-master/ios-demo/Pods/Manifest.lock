@@ -1,0 +1,32 @@
+PODS:
+  - CocoaLumberjack (3.6.0):
+    - CocoaLumberjack/Core (= 3.6.0)
+  - CocoaLumberjack/Core (3.6.0)
+  - GCDWebServer (3.4.2):
+    - GCDWebServer/Core (= 3.4.2)
+  - GCDWebServer/Core (3.4.2)
+  - SSZipArchive (2.2.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - CocoaLumberjack
+  - GCDWebServer (~> 3.4.2)
+  - SSZipArchive
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CocoaLumberjack
+    - GCDWebServer
+    - SSZipArchive
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 78b0c238666f4f58db069738ec176f4519557516
+  GCDWebServer: 8d67ee9f634b4bb91eb4b8aee440318a5fc6debd
+  SSZipArchive: fa16b8cc4cdeceb698e5e5d9f67e9558532fbf23
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 80aeda76f601b1f11fb8b324e15d401dd20959a8
+
+COCOAPODS: 1.11.3
